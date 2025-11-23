@@ -20,7 +20,7 @@ Beginner programmers practicing Python with strings, loops, and dictionaries.
 Researchers who need a quick tool to check codon usage in short DNA samples.Teachers looking for a neat, simple program for class demonstrations or assignments.
 
 4. High-Level Features
-5.  <br>
+<br>
 DNA Input & CleaningLets the user type or paste a DNA sequence.
 Removes spaces and changes all letters to uppercase.
 Input Validation Checks that the sequence only has the valid DNA letters (A, T, G, C).
