@@ -13,8 +13,6 @@ Count how many times each codon appears using an efficient method.
 Show the results in a clear, sorted list.
 Handle incorrect input properly by showing an error message.
 
-This project only focuses on counting codons not converting them into proteins or analyzing genes deeply.
-
 3. Target UsersThis project is useful for:
 <br>
 Students learning about DNA and genetics.
@@ -22,7 +20,7 @@ Beginner programmers practicing Python with strings, loops, and dictionaries.
 Researchers who need a quick tool to check codon usage in short DNA samples.Teachers looking for a neat, simple program for class demonstrations or assignments.
 
 4. High-Level Features
-5. <br>
+5.  <br>
 DNA Input & CleaningLets the user type or paste a DNA sequence.
 Removes spaces and changes all letters to uppercase.
 Input Validation Checks that the sequence only has the valid DNA letters (A, T, G, C).
