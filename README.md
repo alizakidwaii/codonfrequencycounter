@@ -84,7 +84,10 @@ Output:
 Invalid DNA Sequence! Only A, T, G, C allowed
 
 
- Screenshots 
+ Screenshots
+
+ <img width="693" height="827" alt="Screenshot 2025-11-23 150735" src="https://github.com/user-attachments/assets/951182c6-1c0f-4390-8e0c-b8b3a8ca6239" />
+
 
 
 
