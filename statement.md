@@ -3,6 +3,7 @@
 DNA is made of four building blocks: A, T, G, and C. Scientists often study how often different three-letter groups (called codons) appear in a DNA sequence to understand genes and how proteins are made.
 Counting these codons by hand can be slow and confusing, especially for long DNA sequences.
 This project creates a simple Codon Frequency Counter program. It checks if a given DNA sequence is valid, splits it into codons, counts how often each codon appears, and clearly shows the results automatically.
+<br>
 
 3. Scope of the Project
 <br>
@@ -12,12 +13,14 @@ Check that it only has valid letters (A, T, G, C).Break the sequence into groups
 Count how many times each codon appears using an efficient method.
 Show the results in a clear, sorted list.
 Handle incorrect input properly by showing an error message.
+<br>
 
 3. Target UsersThis project is useful for:
 <br>
 Students learning about DNA and genetics.
 Beginner programmers practicing Python with strings, loops, and dictionaries.
 Researchers who need a quick tool to check codon usage in short DNA samples.Teachers looking for a neat, simple program for class demonstrations or assignments.
+<br>
 
 4. High-Level Features
 <br>
