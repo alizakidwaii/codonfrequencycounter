@@ -187,14 +187,14 @@ Invalid DNA Sequence! Only A, T, G, C allowed
 
  <img width="556" height="51" alt="Screenshot 2025-11-23 155142" src="https://github.com/user-attachments/assets/25141d67-669f-4167-a124-bebb75efd644" />
 
-Objectives
-Main Goals
+Objectives<br>
+Main Goals<br>
 Make the computer automatically count how often each codon appears in a DNA sequence.
 Check that the DNA sequence entered by the user is valid and contains only real DNA letters.
 Show the codon counts in a clear and neatly formatted way.
 Use a modular design (dividing the program into clear parts) to follow good programming practices.
 
-Extra Goals
+Extra Goals<br>
 Add error handling so the program can warn users if the DNA has invalid letters.
 Show how bioinformatics calculations can be done simply using Python.
 Write proper documentation with explanations, diagrams, and system design for academic use.
